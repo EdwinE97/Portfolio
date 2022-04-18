@@ -4,7 +4,7 @@ import '../App.css'
 const About = () =>{
     return(
         <>
-        <div className='about-container'>
+        <div className='about-container' id='About'>
             <div className='about-container-column'>
             <img className='img-me' alt='profile' src='./img/edwin pic.jpeg'></img>
             <h1 style={{color:'brown'}}>About Me</h1>
