@@ -15,7 +15,7 @@ const Projects = () => {
         {/* Gateway */}
         <div className="project-column-grid">
           <div className="project-column-grid_column">
-            <button className="project-btn" href=''>Take A Look</button>
+            <button className="project-btn"> <a href='https://edwine97.github.io/Gateway/'>Take A Look</a></button>
 
             <div className="project-img-container">
               <img
