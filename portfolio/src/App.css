@@ -10,7 +10,7 @@ body{
 /* Nav  css */
 
 .nav-links{
-    background-color: rgba(165, 42, 42, 0.436);
+    background-color: rgba(255, 255, 255, 0.436);
     padding:0rem;
     display: flex;
     flex-direction: column-reverse;
@@ -25,7 +25,7 @@ body{
     
 }
 .nav-links:hover{
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.436);
 }
 .my-name{
     display: flex;
@@ -39,7 +39,7 @@ li{
    
 }
 li:hover{
-    background-color: brown;
+    background-color: rgba(186, 69, 69, 0.436);
     border-radius: 49px;
     
 }
