@@ -24,6 +24,9 @@ body{
 
     
 }
+.nav-links:hover{
+    background-color: white;
+}
 .my-name{
     display: flex;
     justify-content: center;
@@ -34,6 +37,11 @@ li{
     display: inline;
     padding: 2rem;
    
+}
+li:hover{
+    background-color: brown;
+    border-radius: 49px;
+    
 }
 a{
     text-decoration: none;
@@ -122,6 +130,16 @@ a{
 
 /* PROJECT CARDS CSS */
 
+img{
+    border-radius: 49px;
+}
+button{
+   
+    border-radius: 49px;
+}
+button:hover{
+    background-color: #fff;
+}
 .project-column-grid{
     display: grid;
     grid-template-columns:1fr;
@@ -131,6 +149,7 @@ a{
 .project-column-grid_column{
     box-shadow: inset 0 -3em 3em rgb(0 0 0 / 10%), 0 0 0 2px #fff, 0.3em 0.3em 1em rgb(0 0 0 / 30%);
     border: 1px solid brown;
+    border-radius: 49px;
     padding: 0.8rem;
     background-color: blanchedalmond;
     height: 100%;
@@ -143,7 +162,9 @@ a{
 /* CONTACT CSS */
 
 .form-container{
+    
     display: flex;
+    border-radius: 49px;
     justify-content: center;
     align-items: center;
     margin: 2rem;
@@ -169,7 +190,7 @@ a{
     border: 2px solid, brown;
 }
 .btn-form:hover{
-    color: brown;
+    background-color: white;
 }
 
 

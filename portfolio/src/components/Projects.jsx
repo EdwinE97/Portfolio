@@ -15,7 +15,6 @@ const Projects = () => {
         {/* Gateway */}
         <div className="project-column-grid">
           <div className="project-column-grid_column">
-            <button className="project-btn"> <a href='https://edwine97.github.io/Gateway/'>Take A Look</a></button>
 
             <div className="project-img-container">
               <img
@@ -27,12 +26,12 @@ const Projects = () => {
 
             <h2 style={{color:'brown'}}>Gateway</h2>
             <h3>HTML | CSS </h3>
+            <button className="project-btn"> <a href='https://edwine97.github.io/Gateway/'>Take A Look</a></button>
           </div>
        
             {/* Gateway */}
       
           <div className="project-column-grid_column">
-            <button className="project-btn"><a href="https://edwine97.github.io/hopehacks-g3/">Take A Look</a></button>
 
             <div className="project-img-container">
               <img
@@ -44,13 +43,14 @@ const Projects = () => {
 
             <h2 style={{color:'brown'}}>Hope-Hacks</h2>
             <h3>HTML | CSS | Node.js </h3>
+            <button className="project-btn"><a href="https://edwine97.github.io/hopehacks-g3/">Take A Look</a></button>
             
           </div>
       
             {/* Gateway */}
         
           <div className="project-column-grid_column">
-            <button className="project-btn"> <a href = 'http://slappys.s3-website-us-east-1.amazonaws.com/'>Take A Look</a></button>
+           
 
             <div className="project-img-container">
               <img
@@ -62,12 +62,12 @@ const Projects = () => {
 
             <h2 style={{color:'brown'}}>Ecommerce</h2>
             <h3>HTML | CSS | React | MYSQL </h3>
+            <button className="project-btn"> <a href = 'http://slappys.s3-website-us-east-1.amazonaws.com/'>Take A Look</a></button>
           </div>
        
           {/* Gateway */}
      
           <div className="project-column-grid_column">
-            <button className="project-btn"><a href="https://netflix-redesign-project.herokuapp.com/">Take A Look</a></button>
 
             <div className="project-img-container">
               <img
@@ -79,6 +79,7 @@ const Projects = () => {
 
             <h2 style={{color:'brown'}}>Redesign</h2>
             <h3>Node.js | MYSQL </h3>
+            <button className="project-btn"><a href="https://netflix-redesign-project.herokuapp.com/">Take A Look</a></button>
           </div>
         </div>
       </div>
