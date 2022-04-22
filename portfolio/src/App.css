@@ -158,6 +158,13 @@ button:hover{
     height: 100%;
     width: 100%;
 }
+.project-btn{
+   
+    flex-direction: row;
+    padding: .5rem;
+    margin:.5rem;
+    
+}
 
 /* CONTACT CSS */
 
