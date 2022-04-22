@@ -85,6 +85,24 @@ const Projects = () => {
             <button className="project-btn"><a href="https://github.com/Dood3l/netflix-redesign">Github Link</a></button>
    
           </div>
+
+<div className="project-column-grid_column">
+           
+
+            <div className="project-img-container">
+              <img
+                className="project-img"
+                alt="FGP"
+                src="./img/FGP.png"
+              ></img>
+            </div>
+
+            <h2 style={{color:'brown'}}>Code For Justice</h2>
+            <h3>HTML | CSS | React | MYSQL </h3>
+            <button className="project-btn"> <a href = 'https://edwine97.github.io/firstGroupProject/'>Take A Look</a></button>
+            <button className="project-btn"><a href="https://github.com/EdwinE97/firstGroupProject">Github Link</a></button>
+          </div>
+          
         </div>
       </div>
     </>

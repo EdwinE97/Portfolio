@@ -159,8 +159,6 @@ button:hover{
     width: 100%;
 }
 .project-btn{
-   
-    flex-direction: row;
     padding: .5rem;
     margin:.5rem;
     
