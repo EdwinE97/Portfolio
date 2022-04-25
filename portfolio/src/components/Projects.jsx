@@ -98,7 +98,7 @@ const Projects = () => {
             </div>
 
             <h2 style={{color:'brown'}}>Code For Justice</h2>
-            <h3>HTML | CSS | React | MYSQL </h3>
+            <h3>HTML | CSS  </h3>
             <button className="project-btn"> <a href = 'https://edwine97.github.io/firstGroupProject/'>Take A Look</a></button>
             <button className="project-btn"><a href="https://github.com/EdwinE97/firstGroupProject">Github Link</a></button>
           </div>
