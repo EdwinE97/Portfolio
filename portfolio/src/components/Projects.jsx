@@ -86,22 +86,7 @@ const Projects = () => {
    
           </div>
 
-<div className="project-column-grid_column">
-           
 
-            <div className="project-img-container">
-              <img
-                className="project-img"
-                alt="FGP"
-                src="./img/FGP.png"
-              ></img>
-            </div>
-
-            <h2 style={{color:'brown'}}>Code For Justice</h2>
-            <h3>HTML | CSS  </h3>
-            <button className="project-btn"> <a href = 'https://edwine97.github.io/firstGroupProject/'>Take A Look</a></button>
-            <button className="project-btn"><a href="https://github.com/EdwinE97/firstGroupProject">Github Link</a></button>
-          </div>
           
         </div>
       </div>
